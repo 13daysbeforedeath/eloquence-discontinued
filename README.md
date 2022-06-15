@@ -36,6 +36,18 @@ if __name__ == '__main__':
     me = eloquence()
 ```
 
+```python
+___███████▀◢▆▅▃ 　　　   　　 　　　 ▀▀████ONII CHAN
+___██████▌◢▀█▓▓█◣   　　　　　　▂▃▃　 ████onii chan
+__▐▐█████▍▌▐▓▓▉　　　　　　　◢▓▓█ ▼ ████ONII CHAN
+__ ▌██████▎　 ▀▀▀　　　　　　 　█▓▓▌ ▌ █████▌onii chan
+_▐ ██████▊　 ℳ 　　　　　　　　▀◥◤▀    ▲████▉ONII CHAN
+_▊ ███████◣ 　　　　　　  ′　　　ℳ　 ▃◢██████▐onii chan
+_ ▉ ████████◣ 　　　　 ▃、　　　　　◢███▊███ ONII CHAN
+_▉　 █████████▆▃　　　　　　　 ◢████▌ ███  onii chan
+_ ▉　 ████▋████▉▀◥▅▃▃▅▇███▐██▋　▐██ONII CHAN
+```
+
 <div align="center">
   <a href="https://open.spotify.com/user/31hdishdd3dvlc3z7zfqkpahshra?si=2f8ece6f399b47e3">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
