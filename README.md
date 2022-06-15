@@ -1,7 +1,7 @@
    ![Header](https://github.com/scammingpanic/scammingpanic/blob/main/assets/1.gif)
 
 <h1 align="center">
-  <b>scammingpanic#4021</b>
+  <b>eloquence#4021</b>
 </h1>
 
 ## Hey! My name is eloquence, I'm a social media bot and website developer.
